@@ -4,14 +4,14 @@
 
 ## 🚀 About Me
 - 🎓 **Telecommunications engineer in formation**
-- 💻 I work with **Swift**, **JavaScript**, **Python** and **HTML/CSS++**  
+- 💻 I work with **C++**, **JavaScript**, **Python** and **HTML/CSS++**  
 - 🎨 I like to mix the creativity of pixels with the logic of codes
 - 🎧 Creator of experiences that connect people 
 - 🌎 I'm from Brazil
 
 ### 🦾 Technologies
-- **Frameworks**: SwiftUI, UIKit, SpriteKit.  
-- **Tools**: Xcode, Git, Figma, Apple Vision Pro & more.
+- **Frameworks**: React, Next.js, Bootstrap.  
+- **Tools**: Git & GitHub, Node.js & NPM, Browser DevToolso & more.
 
 ### 📨 Contact-me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jade%20Paz-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jade-paz-075bb8233/)
