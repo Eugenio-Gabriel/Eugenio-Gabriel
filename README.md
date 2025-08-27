@@ -14,7 +14,7 @@
 - **Tools**: Git & GitHub, Node.js & NPM, Browser DevToolso & more.
 
 ### 📨 Contact-me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jade%20Paz-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jade-paz-075bb8233/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugênio%20Gabriel-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eugênio-gabriel-351a1a290/)
 - [![Site](https://img.shields.io/badge/Instagram-jadepaz.dev-E30B5D?style=flat&logo=globe&logoColor=white)](https://www.instagram.com/jadepaz.dev?igsh=MTExNG03eTBlMWlidg%3D%3D&utm_source=qr) 
 
 
@@ -23,14 +23,14 @@
 - **GitHub statistics**:  
   <div>
   <a href="https://github.com/JadeProg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JadeProg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadeProg&layout=compact&langs_count=168&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugenio-Gabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenio-Gabriel&layout=compact&langs_count=168&theme=radical"/>
 <div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JadeProg/JadeProg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JadeProg/JadeProg/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JadeProg/JadeProg/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eugenio-Gabriel/Eugenio-Gabriel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eugenio-Gabriel/Eugenio-Gabriel/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eugenio-Gabriel/Eugenio-Gabriel/output/github-contribution-grid-snake.svg">
 </picture>
 
 <!--
