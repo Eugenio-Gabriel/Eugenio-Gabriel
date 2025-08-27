@@ -15,7 +15,6 @@
 
 ### 📨 Contact-me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugênio%20Gabriel-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/eugênio-gabriel-351a1a290/)
-- [![Site](https://img.shields.io/badge/Instagram-jadepaz.dev-E30B5D?style=flat&logo=globe&logoColor=white)](https://www.instagram.com/jadepaz.dev?igsh=MTExNG03eTBlMWlidg%3D%3D&utm_source=qr) 
 
 
 ## 🛠️ Some cool things
