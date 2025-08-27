@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eugênio! 
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=blue&size=25&lines=Web+Developer;multi+plataforms)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=blue&size=25&lines=Web+Developer;Technical+Founder)
 
 ## 🚀 About Me
 - 🎓 **Telecommunications engineer in formation**
