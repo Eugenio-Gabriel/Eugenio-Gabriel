@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 🎓 **Telecommunications engineer in formation**
-- 💻 I work with **C++**, **JavaScript**, **Python** and **HTML/CSS++**  
+- 💻 I work with **C++**, **JavaScript**, **Python** and **HTML/CSS**  
 - 🎨 I like to mix the creativity of pixels with the logic of codes
 - 🎧 Creator of experiences that connect people 
 - 🌎 I'm from Brazil
