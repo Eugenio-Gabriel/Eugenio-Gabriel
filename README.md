@@ -21,7 +21,7 @@
 
 - **GitHub statistics**:  
   <div>
-  <a href="https://github.com/JadeProg">
+  <a href="https://github.com/Eugenio-Gabriel">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eugenio-Gabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eugenio-Gabriel&layout=compact&langs_count=168&theme=radical"/>
 <div>
